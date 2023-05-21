@@ -16,4 +16,4 @@ I'm a shipbuilding engineer with a passion for artificial intelligence and progr
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooryakhorsandy&show_icons=true&locale=en&layout=compact" alt="pooryakhorsandy" /></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/pooryakhorsandy/my-repo.svg)](https://github.com/pooryakhorsandy/my-repo/stargazers)
+![](https://github-readme-stats.vercel.app/api?pooryakhorsandy=ortonikc&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
