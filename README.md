@@ -16,3 +16,6 @@ I'm a shipbuilding engineer with a passion for artificial intelligence and progr
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooryakhorsandy&show_icons=true&locale=en&layout=compact" alt="pooryakhorsandy" /></p>
 
+##GitHub Trophies
+![][https://github-readme-stats.vercel.app/api?username=ortonikc&theme-radical&hide_border-true&count_private-True)<br/>
+
