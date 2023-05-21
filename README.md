@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a shipbuilding engineer with a passion for artificial intelligence and programming. With extensive experience in both fields, I'm dedicated to developing innovative solutions that push the boundaries of what's possible.
+I'm a Naval architecture  engineer with a passion for artificial intelligence and programming. With extensive experience in both fields, I'm dedicated to developing innovative solutions that push the boundaries of what's possible.
 
 
 
